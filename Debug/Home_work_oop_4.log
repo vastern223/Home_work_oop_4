@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  arr_class.cpp
+C:\Users\Kolotyuk\source\repos\Home_work_oop_4\Home_work_oop_4\arr_class.cpp(48,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\Kolotyuk\source\repos\Home_work_oop_4\Home_work_oop_4\arr_class.cpp(158): warning C4715: Array::Get_Min_arr: значение возвращается не при всех путях выполнения
+C:\Users\Kolotyuk\source\repos\Home_work_oop_4\Home_work_oop_4\arr_class.cpp(185): warning C4715: Array::Get_Average_arr: значение возвращается не при всех путях выполнения
+C:\Users\Kolotyuk\source\repos\Home_work_oop_4\Home_work_oop_4\arr_class.cpp(171): warning C4715: Array::Get_Max_arr: значение возвращается не при всех путях выполнения
+  Home_work_oop_4.vcxproj -> C:\Users\Kolotyuk\source\repos\Home_work_oop_4\Debug\Home_work_oop_4.exe
